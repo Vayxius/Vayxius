@@ -1,6 +1,6 @@
 ![HeaderIMG](https://github.com/Vayxius/Vayxius/blob/d9c41304cb7158ee464c09a1c57ef713c7e1b1d1/disconnect.gif)
 
-## Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi There!
 
 - 🔭 I'm currently working on a purchase order application.
 - 🌱 I’m currently learning Go (programming language).
